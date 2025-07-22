@@ -1,0 +1,242 @@
+[
+    {
+        "product_name": "【U-POWER公式・数量限定】スマホホルダー 車 ナノゲル吸着×真空吸盤 W固定構造 magsafe対応 360度回転 N55磁石 片手操作 iPhone Android全機種対応 スマホスタンド 車用 カー用品",
+        "video_link": "https://www.tiktok.com/@upowerno.1/video/7521628922249874706",
+        "creator_handle": "upowerno.1",
+        "product_category": "Automotive & Motorcycle",
+        "product_link": "https://shop.tiktok.com/view/product/1731678188215699071",
+        "img_key": {
+            "img_key": "img_v3_02oa_ea7b4590-93ed-44ce-93dc-a2b7a535c3hu"
+        }
+    },
+    {
+        "product_name": "ポータブルハンドヘルドターボファン、折りたたみ式パーソナルファン、ミニファン、夏の旅行用ポータブルファン",
+        "video_link": "https://www.tiktok.com/@kami.labo/video/7523054894383729928",
+        "creator_handle": "kami.labo",
+        "product_category": "Household Appliances",
+        "product_link": "https://shop.tiktok.com/view/product/1731489362040620442",
+        "img_key": {
+            "img_key": "img_v3_02oa_ad9d4c20-d20f-4ab8-8b50-ca930348d5hu"
+        }
+    },
+    {
+        "product_name": "funnyelves 方里 ソフトマットプレストパウダー ファニーエルヴス 方里 パウダ一 フェイスパウダー プレストパウダー ファンデーション ベースメイク メイク仕上げ",
+        "video_link": "https://www.tiktok.com/@memeron_me/video/7496847734817803528",
+        "creator_handle": "memeron_me",
+        "product_category": "Beauty & Personal Care",
+        "product_link": "https://shop.tiktok.com/view/product/1731602961020716035",
+        "img_key": {
+            "img_key": "img_v3_02oa_acba9549-f58f-4f30-a5d9-034f78b749hu"
+        }
+    },
+    {
+        "product_name": "MAGIC JOHN Apple iPhoneガラスフィルム 2枚セット ガイド枠フィルム 貼り付けに簡単 ズレなく 気泡レス 高透過率 強度向上 耐衝撃 飛散防止 触り心地良い 光沢 覗き見防止",
+        "video_link": "https://www.tiktok.com/@magicjohn.japan/video/7520557632529173778",
+        "creator_handle": "magicjohn.japan",
+        "product_category": "Phones & Electronics",
+        "product_link": "https://shop.tiktok.com/view/product/1731779467475912507",
+        "img_key": {
+            "img_key": "img_v3_02oa_fb1a5db0-5414-4883-80e5-957469c2b7hu"
+        }
+    },
+    {
+        "product_name": "バレンタインギフトに最適、メモリーカード対応の翻訳ペン、134言語対応の双方向翻訳機、オンライン60言語・オフライン10言語対応スキャン機能付き",
+        "video_link": "https://www.tiktok.com/@gutzfam/video/7522478537056505096",
+        "creator_handle": "gutzfam",
+        "product_category": "Phones & Electronics",
+        "product_link": "https://shop.tiktok.com/view/product/1731533879161030321",
+        "img_key": {
+            "img_key": "img_v3_02oa_1f9d58f5-fe2a-4828-8259-d15d74bb4ahu"
+        }
+    },
+    {
+        "product_name": "HiCA Cセラム ビタミンC誘導体6% 敏感肌パッチテスト 日本製 毛穴 くすみ キメ 28ml",
+        "video_link": "https://www.tiktok.com/@fugaofficialhuuga/video/7522045354989112583",
+        "creator_handle": "fugaofficialhuuga",
+        "product_category": "Beauty & Personal Care",
+        "product_link": "https://shop.tiktok.com/view/product/1731539746337817979",
+        "img_key": {
+            "img_key": "img_v3_02oa_e9129034-a1bb-4176-b0dd-caa906013dhu"
+        }
+    },
+    {
+        "product_name": "スマホホルダー 車 マグネット【2025新モデル＆N55強力吸着&真空吸盤】スマホスタンド 車載 軽量 コンパクト 多角度自由調節 360°回転式 安定性 車用品 携帯ホルダー 折りたたみ式 スマホホルダー 車載ホルダー iPhone & Android多機種と多車種対応",
+        "video_link": "https://www.tiktok.com/@whip1108/video/7521653489571745031",
+        "creator_handle": "whip1108",
+        "product_category": "Automotive & Motorcycle",
+        "product_link": "https://shop.tiktok.com/view/product/1731535879964165821",
+        "img_key": {
+            "img_key": "img_v3_02oa_bbe13869-1501-42a6-a387-3ea1d53119hu"
+        }
+    },
+    {
+        "product_name": "モバイルバッテリー 40000mAh大容量 パワーバンク 急速充電 ３台同時充電 LCD電量残量表示 PSE技術基準適合 Type-C入出力兼用 iPad/iPhone/Android各種スマホ対応 回路保護 機内持ち込み可能 旅行/出張/アウトドア/キャンプ/停電対策/防災 日本語取扱説明書",
+        "video_link": "https://www.tiktok.com/@takezo.channel/video/7523219501635161352",
+        "creator_handle": "takezo.channel",
+        "product_category": "Phones & Electronics",
+        "product_link": "https://shop.tiktok.com/view/product/1731596492346393804",
+        "img_key": {
+            "img_key": "img_v3_02oa_046b3c48-4819-405d-94b5-1877bb9135hu"
+        }
+    },
+    {
+        "product_name": "FOSSiBOT S2 SIMフリー スマートフォン本体 20GB+256GB/1TB拡張可能 Android 14 スマホ 本体 オクタコアプロセッサ 6.72インチFHD+大画面 アンドロイド スマホ 5000mAhバッテリー 50MP+16MPカメラ 4GデュアルSIM 顔認証 指紋認証 NFC+GPS+BT5.0+5G WiFi 技適認証済 グローバルバージョン",
+        "video_link": "https://www.tiktok.com/@george_senpai1975/video/7522793244552482066",
+        "creator_handle": "george_senpai1975",
+        "product_category": "Phones & Electronics",
+        "product_link": "https://shop.tiktok.com/view/product/1731533494094235208",
+        "img_key": {
+            "img_key": "img_v3_02oa_8e809070-0884-408a-b76b-2e9de24bc2hu"
+        }
+    },
+    {
+        "product_name": "MINISO MS156 OWS 完全ワイヤレスヘッドホン Bluetooth 6.0 オープンイヤーイヤホン HiFiステレオ 長時間バッテリー駆動",
+        "video_link": "https://www.tiktok.com/@thai.miamoto/video/7523147460382969106",
+        "creator_handle": "thai.miamoto",
+        "product_category": "Phones & Electronics",
+        "product_link": "https://shop.tiktok.com/view/product/1731664111330690646",
+        "img_key": {
+            "img_key": "img_v3_02oa_0dd27442-6b3a-4558-b3fb-ed1165c05fhu"
+        }
+    },
+    {
+        "product_name": "【encologi公式・数量限定】スマホホルダー 車 マグネット 真空吸盤 車 スマホスタンド Mag-safe 車載 安定性 高級合金素材 車載スマホホルダー 360°回転 多角度自由調節 片手操作 1秒で着脱 折りたたみ式 スマホ車載ホルダー iPhone&Android多機種と多車種が対応",
+        "video_link": "https://www.tiktok.com/@encologishop/video/7522389702758993170",
+        "creator_handle": "encologishop",
+        "product_category": "Automotive & Motorcycle",
+        "product_link": "https://shop.tiktok.com/view/product/1731593310042818504",
+        "img_key": {
+            "img_key": "img_v3_02oa_007b6e4c-41bf-496a-848a-f7be054eaahu"
+        }
+    },
+    {
+        "product_name": "Aecooly タッチ操作 静音卓上扇風機 | 寝室に最適、100段階風量＆デジタルディスプレイ搭載、8000mAh大容量バッテリー、3段階首振り機能付き。寝室・ベッドサイド・オフィス・旅行に。父の日ギフトにも",
+        "video_link": "https://www.tiktok.com/@marl_.official/video/7523900313481252103",
+        "creator_handle": "marl_.official",
+        "product_category": "Household Appliances",
+        "product_link": "https://shop.tiktok.com/view/product/1731603098029163798",
+        "img_key": {
+            "img_key": "img_v3_02oa_b7a791f3-8b21-4985-9853-18fad38bd2hu"
+        }
+    },
+    {
+        "product_name": "真面目なおからクッキー",
+        "video_link": "https://www.tiktok.com/@okarat_official/video/7522460678687378696",
+        "creator_handle": "okarat_official",
+        "product_category": "Food & Beverages",
+        "product_link": "https://shop.tiktok.com/view/product/1731636529880859935",
+        "img_key": {
+            "img_key": "img_v3_02oa_065717dc-6dfc-46c5-a1de-2d886e8534hu"
+        }
+    },
+    {
+        "product_name": "レディース Tシャツ 半袖 プリント 綿100 コットン 丸首 ゆったりシルエット 夏服 カジュアル おしゃれ 人気 2025 夏新作 トレンド 吸汗速乾 通気性 肌にやさしい 敏感肌対応 ペアコーデ カップル服 旅行にもおすすめ 多色展開",
+        "video_link": "https://www.tiktok.com/@staclo.live/video/7521617021855943943",
+        "creator_handle": "staclo.live",
+        "product_category": "Womenswear & Underwear",
+        "product_link": "https://shop.tiktok.com/view/product/1731661351403619870",
+        "img_key": {
+            "img_key": "img_v3_02oa_abd430a7-fda1-4fca-9769-3002d7f9a7hu"
+        }
+    },
+    {
+        "product_name": "【4in1 240W急速充電・優れた耐久性】USBケーブル type-c iPhone急速充電器 1.2M PD3.1急速充電ケーブル iPhone16 type-cケーブル 高速 iPhone16/iPhone15/iPhone13シリーズ/Android/ノートパソコン",
+        "video_link": "https://www.tiktok.com/@niumo_jp/video/7523080767174462737",
+        "creator_handle": "niumo_jp",
+        "product_category": "Phones & Electronics",
+        "product_link": "https://shop.tiktok.com/view/product/1731836407887791436",
+        "img_key": {
+            "img_key": "img_v3_02oa_7af9aa04-2619-4bf3-ae8e-8923954ab0hu"
+        }
+    },
+    {
+        "product_name": "スマホ用自撮りモニター Camee（キャミー）【KEIYO公式】\"外カメラをモニター化\" iPhone専用 遠隔操作ボタン付き EC限定ステッカー付き AN-S151E",
+        "video_link": "https://www.tiktok.com/@keiyo367/video/7522731618751073544",
+        "creator_handle": "keiyo367",
+        "product_category": "Phones & Electronics",
+        "product_link": "https://shop.tiktok.com/view/product/1731757373237987222",
+        "img_key": {
+            "img_key": "img_v3_02oa_372a7919-7c5a-497a-ae4f-faf88fdd59hu"
+        }
+    },
+    {
+        "product_name": "KINGLUCKY 携帯電話ホルダー 5-in-1 ワイヤレス誘導オーディオ Bluetooth スピーカー、360° 回転 LED スタンド、ユニバーサル スピーカー ホルダー、携帯電話、タブレット付き、自宅、シャワー、屋外、オフィスでの使用に最適。",
+        "video_link": "https://www.tiktok.com/@sma_1125/video/7521636572844854535",
+        "creator_handle": "sma_1125",
+        "product_category": "Phones & Electronics",
+        "product_link": "https://shop.tiktok.com/view/product/1731575282470126766",
+        "img_key": {
+            "img_key": "img_v3_02oa_193329e4-9844-49b1-b76b-0b2258f5a1hu"
+        }
+    },
+    {
+        "product_name": "AI顔認識付きデスクトップSelfieスティックジンバル、三脚付き360°調整可能なSelfieスティック、ライブストリーミング用の電話三脚スタンド",
+        "video_link": "https://www.tiktok.com/@yuikaibabieslovejapan/video/7525327903614160135",
+        "creator_handle": "yuikaibabieslovejapan",
+        "product_category": "Phones & Electronics",
+        "product_link": "https://shop.tiktok.com/view/product/1731488491572397618",
+        "img_key": {
+            "img_key": "img_v3_02oa_c6496fb1-2fd8-4793-a053-a022de5536hu"
+        }
+    },
+    {
+        "product_name": "4-in-1多機能データケーブル、PD 100 W充電、デュアルType-C 27 W高速充電データケーブル、Type-Cアップグレードチップは携帯電話をサポートして携帯電話を充電します。",
+        "video_link": "https://www.tiktok.com/@hashimotobiz/video/7523990785503579408",
+        "creator_handle": "hashimotobiz",
+        "product_category": "Phones & Electronics",
+        "product_link": "https://shop.tiktok.com/view/product/1731488561799333493",
+        "img_key": {
+            "img_key": "img_v3_02oa_5b8c5dda-61ca-48f3-865f-3228c8f656hu"
+        }
+    },
+    {
+        "product_name": "Miniso X15 Pro翻訳ワイヤレスヘッドフォンBluetooth 5.4スポーツイヤホンサポート135言語リアルタイムBluetooth翻訳ハイファイサウンドクオリティ",
+        "video_link": "https://www.tiktok.com/@ghjkpooqw/video/7524990775353052423",
+        "creator_handle": "ghjkpooqw",
+        "product_category": "Phones & Electronics",
+        "product_link": "https://shop.tiktok.com/view/product/1731687913494775604",
+        "img_key": {
+            "img_key": "img_v3_02oa_10160daa-9266-4e65-ac3d-eb6df07acbhu"
+        }
+    },
+    {
+        "product_name": "スマートフォンの急速充電キット5点ギフトボックス 無線充電器 スマートフォンケース イヤフォン データケーブル 充電アダプタ 5in1充電セット 対応機種: 16、15、14、13、12、11、Pro Max、XSMax、XR、X、7、8 Plus",
+        "video_link": "https://www.tiktok.com/@tun.and.baby/video/7526320727859956999",
+        "creator_handle": "tun.and.baby",
+        "product_category": "Phones & Electronics",
+        "product_link": "https://shop.tiktok.com/view/product/1731777422059537695",
+        "img_key": {
+            "img_key": "img_v3_02oa_1681a529-a4e1-4696-98b8-6537319923hu"
+        }
+    },
+    {
+        "product_name": "ハンディファン 【2025夏新モデル・瞬間急速冷却・接触冷感】 携帯扇風機 手持ち扇風機 冷却ファン 卓上扇風機 超高速大風量 1800mAh 瞬時冷感 MAX-20℃冷やす 充電式USB扇風機 3段階風量調節 超軽量 静音 持ち運びに便利 熱中症 暑さ対策 オフィス スポーツ観戦 日本語取扱説明書付き 女性 男性 父の日 母の日 敬老の日 ギフト最適",
+        "video_link": "https://www.tiktok.com/@baichuanba/video/7521998271930322184",
+        "creator_handle": "baichuanba",
+        "product_category": "Phones & Electronics",
+        "product_link": "https://shop.tiktok.com/view/product/1731705460798293581",
+        "img_key": {
+            "img_key": "img_v3_02oa_9574aa75-a57e-4729-879a-60936494d7hu"
+        }
+    },
+    {
+        "product_name": "MINISO X28 OWS翻訳オープンイヤーワイヤレスBluetoothイヤホンは、135言語のリアルタイムBluetooth翻訳HIFIサウンドクオリティスポーツヘッドフォンIPX5防水マイク付き",
+        "video_link": "https://www.tiktok.com/@cccbuyio/video/7524662843958955272",
+        "creator_handle": "cccbuyio",
+        "product_category": "Phones & Electronics",
+        "product_link": "https://shop.tiktok.com/view/product/1731688059007960884",
+        "img_key": {
+            "img_key": "img_v3_02oa_9c220a1c-a087-4921-b537-4be08138dchu"
+        }
+    },
+    {
+        "product_name": "辣条 中国 お菓子 翻天娃辣条 元气棒 爆辣通心棒 麻辣休闲食品小吃 素食手撕面筋 爆辣通心棒 通心棒 ベースフード ご飯のお供 おつまみ 香辣薯条 湖南特产 中華食材 怀旧零食 麻辣小零食 辣條 ベジタリアンスパイシースナックおつまみ 辛口 おつまみ おやつ 辣条 爆辣片 辣味零食 ラーティアオ",
+        "video_link": "https://www.tiktok.com/@hitomi.junn30/video/7524744635650952455",
+        "creator_handle": "hitomi.junn30",
+        "product_category": "Food & Beverages",
+        "product_link": "https://shop.tiktok.com/view/product/1731655119940716271",
+        "img_key": {
+            "img_key": "img_v3_02oa_e544c4ce-77c9-409f-8389-a1d421ca12hu"
+        }
+    }
+]

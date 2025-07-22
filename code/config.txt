@@ -1,0 +1,3 @@
+APP_ID = "cli_a8e1d9f91abb900c"
+APP_SECRET = "jglESE0cQ2CpSUCPQitQhu0MUiUmVAOm"
+TEMPLATE_ID = "AAqIBt7attlUN"
